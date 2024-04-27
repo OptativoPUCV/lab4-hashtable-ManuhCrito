@@ -2,3 +2,9 @@ Sat 27 Apr 2024 01:13:32 AM UTC:
  tests:  0|6
 total_score: 0/70
 a339fdb
+Sat 27 Apr 2024 01:29:28 AM UTC: 
+ hashmap.c | 32 +++++++++++++++++++++++++++-----
+ 1 file changed, 27 insertions(+), 5 deletions(-)
+ tests:  4|5
+total_score: 20/70
+101795d
