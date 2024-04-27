@@ -37,3 +37,13 @@ Sat 27 Apr 2024 01:37:07 AM UTC:
  tests:  11|2
 total_score: 50/70
 ff0137c
+Sat 27 Apr 2024 01:40:41 AM UTC: 
+ hashmap.c | 21 +++++++++++++++++++++
+ 1 file changed, 21 insertions(+)
+In file included from test.c:4:
+hashmap.c: In function ‘firstMap’:
+hashmap.c:121:21: error: subscripted value is neither array nor pointer nor vector
+  121 |         map->current[i];
+      |                     ^
+Compilation failed
+4624642
